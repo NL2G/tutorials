@@ -4,3 +4,4 @@
 2. [Automatic Literature Search](https://docs.google.com/presentation/d/1JZGulQBFaGfUkL_ZTqqG0abkfmVoDcpcDR5bPupkdWc/edit?usp=sharing)
 3. [Typographically Correct Data Visualization](https://github.com/NL2G/tutorials/files/14393704/latex-guide.pdf)
 4. [Coding with AI Tools](https://github.com/NL2G/tutorials/blob/main/DL_Coding_with_AI_tools.pdf)
+5. [Stress Managment](https://github.com/NL2G/tutorials/blob/main/RZ_Stress_Management.pdf)
